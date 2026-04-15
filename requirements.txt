@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+streamlit
+pandas
+requests
+python-dotenv
+itsdangerous
+httpx
+openai
